@@ -1,0 +1,17 @@
+<html>
+<head>
+</head>
+<body>
+<script>
+document.write("<b>Publication Date CSS Selector:");
+document.write("<br/>#block-views-block-view-noticia-pbh-block-5 > div > div > div > div > div > div.views-field.views-field-nothing > span > span:nth-child(1)<br/>");
+document.write("<b><br/>Object CSS Selector:");
+document.write("<br/>#block-views-block-view-noticia-pbh-block-5 > div > div > div > div > div > div.views-field.views-field-nothing > span > p:nth-child(6)<br/>");
+document.write("<b><br/>Bidding Date CSS Selector:");
+document.write("<br/>#block-views-block-view-noticia-pbh-block-5 > div > div > div > div > div > div.views-field.views-field-nothing > span > p:nth-child(6)<br/>");
+document.write("<b><br/>CSS Selectors of all links related to this particular tender:");
+document.write("<br/>#block-views-block-view-noticia-pbh-block-5 > div > div > div > div > div > div.views-field.views-field-field-historico-da-licitacao > div > table > tbody > tr > td:nth-child(2) > div > div > div > a > img");
+</script>
+</body>
+
+</html> 
